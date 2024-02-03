@@ -1,0 +1,32 @@
+// _footer.scss
+
+@import 'variables';
+
+footer {
+    background-color: $background-color;
+    color: $text-color;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 80px; // Zwiększenie wysokości stopki na 100px (dostosuj wartość według potrzeb)
+
+    p {
+        margin: 15px 0;
+        font-size: 20px; 
+        font-family: $font-family;
+        color: yellow;// Dodanie marginesu od góry i od dołu dla tekstu w stopce
+    }
+    h1 {
+        margin: 13px 0;
+        font-size: 30px; 
+        font-family: $font-family;
+        color: yellow;// Dodanie marginesu od góry i od dołu dla tekstu w stop
+
+
+        
+
+}
+
+}

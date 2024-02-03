@@ -1,0 +1,13 @@
+// _apply-to-all.scss
+
+@import 'variables';
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+    section {
+        padding: 20px;
+    }
+}

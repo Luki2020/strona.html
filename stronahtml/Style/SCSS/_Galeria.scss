@@ -1,0 +1,39 @@
+
+section.conta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #3498db;
+    padding: 20px;
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.figure {
+    width: 23%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.figure img {
+    max-width: 100%;
+    height: 100%;
+    border: 5px solid #333;
+    border-radius: 14px;
+}
+
+.figure figcaption {
+    margin-top: 10px;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
