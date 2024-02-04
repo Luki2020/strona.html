@@ -1,0 +1,43 @@
+
+
+.header-container {
+    background-color: #3498db; 
+    padding: 200px;
+    text-align: center;
+    margin-top: -170px; 
+     
+}
+
+.company-logo {
+    max-width: 400px; 
+    height: auto;
+    border: 20px solid #333;
+    border-radius: 14px; 
+   
+}
+
+.company-info {
+    background-color: rgb(255, 136, 0); 
+    color: black; 
+    padding: 10px;
+    margin-top: 10px; 
+    font-family: 'Your-Fancy-Font', sans-serif; 
+    font-size: 25px;
+    border-radius: 14px;
+     
+}
+.google-maps-link {
+    background-color: #2ecc71; 
+    color: black; 
+    display: inline-block;
+    padding: 10px;
+    margin-top: 10px; 
+    text-decoration: none;
+    font-size: 50px;
+    font-family: fantasy;
+    border-radius: 14px;
+}
+
+.google-maps-link:hover {
+    background-color: #a5ae27; // Kolor tła dla linku po najechaniu 
+}
